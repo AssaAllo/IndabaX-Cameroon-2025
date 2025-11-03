@@ -1,5 +1,6 @@
 # Blood Donation Campaign Dashboard (Detailed)
 
+**Acceder à l'application** : [streamlit run app.py --server.port=$PORT --server.address=0.0.0.0**](https://indabax-cameroon-2025.onrender.com/)
 ## Introduction  
 Ce tableau de bord Streamlit est un outil complet pour suivre, analyser et visualiser les données relatives à une campagne de don de sang. Il présente différentes sections qui permettent de comprendre l’engagement des volontaires, d’explorer leur profil démographique et leur éligibilité, et de visualiser l’évolution de la campagne. Le code exploite plusieurs bibliothèques Python pour la manipulation des données, la cartographie, les graphiques et l’interface utilisateur.
 
