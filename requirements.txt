@@ -26,3 +26,4 @@ pyecharts
 wordcloud
 nltk
 dotenv
+qrcode
