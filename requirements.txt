@@ -25,3 +25,4 @@ streamlit-echarts
 pyecharts
 wordcloud
 nltk
+dotenv
